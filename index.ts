@@ -1,7 +1,7 @@
 import axios, { AxiosResponse } from "axios";
 import fs from "fs";
 
-// Fetch quotes from example.com
+// Fetch quotes from "https://favqs.com/api/qotd"
 async function fetchQuotes() {
   const quotes = [];
   
