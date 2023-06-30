@@ -1,0 +1,1 @@
+Just run "npm start" and the quotes file will be generated in the root directory
